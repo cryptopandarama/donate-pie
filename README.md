@@ -1,4 +1,4 @@
-# donate-pie
+# donate-pie-slice of dao
 
 ### Hackathons
 1. https://hackon.tech/
