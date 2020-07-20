@@ -15,7 +15,7 @@
     "es6-promisify": "^6.0.0",
     "ethers": "^4.0.27",
     "fortmatic": "^0.7.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "md": "^0.6.0",
     "normalize.css": "^8.0.1",
     "p-timeout": "^2.0.1",
