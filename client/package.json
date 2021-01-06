@@ -10,7 +10,7 @@
     "serve:dist": "http-server dist"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.8.0",
     "es6-promisify": "^6.0.0",
     "ethers": "^4.0.27",
